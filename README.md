@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shakya</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate frontend developer from Sri lanka.</h3>
+<h1 align="center">Hi 👋, I'm Shakya Basnayaka</h1>
+<h3 align="center">Welcome to my GitHub profile!</h3>
 
 ---
 
