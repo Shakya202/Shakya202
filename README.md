@@ -78,14 +78,6 @@
 
 ## 📊 GitHub Stats
 
-
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakya202&theme=radical&hide_border=true" width="70%" alt="GitHub Streak" />
-  
-</div>
-
 <div align="center">
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakya202&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
