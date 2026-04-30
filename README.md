@@ -15,7 +15,7 @@
 - 🔭 Currently working on university web projects (Java, MySQL).
 - ❤️ Love building beautiful and user-friendly web interfaces.
 - 💬 Ask me about HTML, CSS, Java, C++, PHP, MySQL, Web Development.
-- 📫 Reach me at **shakyasandali039@gmail.com**
+- 📫 Reach me at **shakyasandali039@gmail.com** and **it23843202@my.sliit.lk**
 - ⚡ Fun fact: call me as **Shaky!**
 
 ---
